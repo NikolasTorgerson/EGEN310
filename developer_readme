@@ -1,0 +1,5 @@
+This code was based off of the examples in the RadioHead library for communication between two radio transceivers.
+If you wish to use this code follow the circuit diagram included within the main branch.
+The arduino pins can easily be modified to account for any placement of the motors.
+
+Created by Nikolas Torgerson.
